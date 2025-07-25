@@ -1,4 +1,5 @@
-## 🚀 Nome do projeto: a definir
+## 🚀 Nome do projeto: CONEXÃO CULTURAL: PLATAFORMA DE VALORIZAÇÃO E  GERAÇÃO DE RENDA PARA PROFISSIONAIS LOCAIS
+
 
 A riqueza cultural do Maranhão se manifesta de forma vibrante no trabalho de seus artesãos e trançistas. No entanto, muitos desses talentosos profissionais enfrentam um desafio comum e desmotivador: a dificuldade em divulgar seus trabalhos e, consequentemente, a desvalorização de uma arte que é patrimônio e sustento. Longe dos grandes centros de marketing e vendas, suas peças únicas e cheias de história muitas vezes não encontram o público merecido, limitando seu reconhecimento e potencial de crescimento.
 
