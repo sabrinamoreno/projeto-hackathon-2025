@@ -1,41 +1,12 @@
-## 🚀 Nome do projeto: a definir
+# React + Vite
 
-A riqueza cultural do Maranhão se manifesta de forma vibrante no trabalho de seus artesãos e trançistas. No entanto, muitos desses talentosos profissionais enfrentam um desafio comum e desmotivador: a dificuldade em divulgar seus trabalhos e, consequentemente, a desvalorização de uma arte que é patrimônio e sustento. Longe dos grandes centros de marketing e vendas, suas peças únicas e cheias de história muitas vezes não encontram o público merecido, limitando seu reconhecimento e potencial de crescimento.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Foi pensando em transformar essa realidade que nossa equipe se uniu neste hackathon para desenvolver uma solução inovadora. Nosso projeto tem o intuito de conectar artesãos e trançistas do Maranhão a um público mais amplo, tanto local quanto nacional.
+Currently, two official plugins are available:
 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Objetivos:
-Através de uma plataforma intuitiva e acessível, buscamos:
+## Expanding the ESLint configuration
 
-1. Ampliar a visibilidade de suas criações.
-
-2. Facilitar a divulgação de seus produtos e serviços.
-
-3. Promover o reconhecimento do valor intrínseco de cada peça e do talento por trás dela.
-
-4. Gerar novas oportunidades de negócio e empoderamento econômico para esses artistas.
-
-
-- ## Desenvolvedores :
-
-| Integrante                                | Trilha                              |
-|-------------------------------------------|-------------------------------------|
-| A definir...                              | A definir                           |
-| A definir...                              | A definir                           |
-| A definir...                              | A definir                           |
-| A definir...                              | A definir                           |
-| A definir...                              | A definir                           |
-
-
-## Tecnologias e ferramentas utilizadas: 
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-
-
-
-
-
-### Acreditamos que, ao fornecer as ferramentas certas, podemos não apenas ajudar a divulgar esses trabalhos maravilhosos, mas também contribuir para a valorização da cultura e da economia criativa maranhense. Junte-se a nós nessa jornada para dar o destaque que o artesanato do Maranhão merece!
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
