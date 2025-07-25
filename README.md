@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # React + Vite
+=======
+## 🚀 Nome do projeto: CONEXÃO CULTURAL: PLATAFORMA DE VALORIZAÇÃO E  GERAÇÃO DE RENDA PARA PROFISSIONAIS LOCAIS
+
+>>>>>>> a4e4ce9737b98c3b5e4c929eafe70cdf3d1e9867
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
