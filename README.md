@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-# React + Vite
-=======
-## 🚀 Nome do projeto: CONEXÃO CULTURAL: PLATAFORMA DE VALORIZAÇÃO E  GERAÇÃO DE RENDA PARA PROFISSIONAIS LOCAIS
+
